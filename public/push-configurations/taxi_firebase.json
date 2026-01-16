@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tagxi-515454",
+  "private_key_id": "21260c8448848848484a5784d51",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDWY0Ma16utzpW\nGOODo6b/AtJU2mNPFf2pM5Ler8AepM2Vt4F1aIsZmywJnNj+UYmHlAsy9VQ9jgMb\npv9CBAjxtBv7JtYsNS3XJ1fCUi5V+2tPFmKIfWW9G4RPMmlgq1Mipcattd6WJW+w\nBYRfj6N8t/dkfCetviFcalJnstItsYvKkGBralc138bWA41xAr8Wseh683eX/EPN\nSecrz7veUvtQ4GcUGY3ieljwDo6RyX8uT/xqH8Aix35lcDorRAtdvXXWTeZxR+2u\nRGmxewZZ86BAp2/Hqn84v3TG7LrV364QcTcdSeimF2iG995CayasV8KMqOnQlKKA\nYHNld2idAgMBAAECggEABV3JZ8+Z8Jdson7ZM9LkEdn5qIZoofyK/6yWBUizW2Ql\nmE5L38t5FBaqKrLErJUq1UCgYEAlQQhAlWC1fb/ch2xz/Gv\ndJy2By207FHASU7znbGvuuhexhtkdZu3xrGZa+XaP5z/Dc7Po3JgG7pQcjPn4f1g\nWlT7qWg5oJ2AFrdnSGYeWHrkbgK9HxO9HJ+AR7RAqmG9CPAHXyMs/O5d4k4nC2XD\n4dz5OvPONz0hgCpxJwQJo9E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-midto@tagxi-107f4.iam.gserviceaccount.com",
+  "client_id": "110401983545445540585115",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-midto%40tagxi-107f4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
